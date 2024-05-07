@@ -2,7 +2,7 @@ version: '3.3'
 
 services:
   mdnice:
-    image: vuldocker/markdown2html:latest
+    image: vuldocker/markdown2wechat:latest
     restart: always
     ports:
       - "3000:3000"
