@@ -15,7 +15,7 @@ ReactDOM.render(
       isGiteeOpen: true,
       isGitHubOpen: true,
     }}
-    defaultTitle="Markdown2Html"
+    defaultTitle="Markdown2Wechat"
   />,
   document.getElementById("root"),
 );
