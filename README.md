@@ -7,6 +7,9 @@
 
 <p align="center"><b>Docker一键部署Markdown-Nice，一款支持适配和主题设计的微信公众号Markdown编辑器</b></p>
 
+## 停更说明
+
+原魔改项目停止更新，新项目[MD](https://github.com/doocs/md)接档（优化体验更好），后续Docker版一键部署改为1Panel面板进行安装，开了一个1Panel第三方应用商店的新项目[https://github.com/arch3rPro/appstore](https://github.com/arch3rPro/appstore)进行同步更新，此项目不在更新维护。
 
 ## 简介
 
